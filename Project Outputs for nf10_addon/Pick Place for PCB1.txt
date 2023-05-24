@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\nf10_addon\Project Outputs for nf10_addon\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/05/23
+Time:       17:13
+Revision:   9b0ff0f8f7bab0c547be43471264a770293aaa4d
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer       Footprint           Center-X(mm) Center-Y(mm) Rotation Description                                       
+U3         SN74LVC2G241DCTR   BottomLayer DCT08_N             6.0550       27.7640      270      "Quadruple Bus Buffer Gate with 3- State Outputs" 
+U2         SN74LVC244ADB      BottomLayer DB020_N             16.0020      28.0670      270      "Octal Buffer/Driver with 3-State Outputs"        
+U1         JTAG-SMT2          BottomLayer JTAG-SMT2           44.7040      16.4880      0        ""                                                
+R10        Res3               BottomLayer RESC0603(1608)_N    6.7310       36.4870      90       Resistor                                          
+R9         Res3               BottomLayer RESC0603(1608)_N    10.5410      16.1290      270      Resistor                                          
+R8         Res3               BottomLayer RESC0603(1608)_N    14.3510      37.5030      90       Resistor                                          
+R7         Res3               BottomLayer RESC0603(1608)_N    16.5100      37.4270      90       Resistor                                          
+R6         Res3               BottomLayer RESC0603(1608)_N    18.6690      37.4270      90       Resistor                                          
+R5         Res3               BottomLayer RESC0603(1608)_N    20.8280      37.5030      90       Resistor                                          
+R4         Res3               BottomLayer RESC0603(1608)_N    26.5430      16.3830      270      Resistor                                          
+R3         Res3               BottomLayer RESC0603(1608)_N    22.4790      16.3450      270      Resistor                                          
+R2         Res3               BottomLayer RESC0603(1608)_N    18.4150      16.0910      270      Resistor                                          
+R1         Res3               BottomLayer RESC0603(1608)_N    14.4780      16.1290      270      Resistor                                          
+P3         PTF-107-xx-L-D     BottomLayer PTF-107-XX-L-D      39.3360      52.0880      90       "Samtec PTF-107-xx-L-D"                           
+P2         LTMM-110-02-x-D-RA BottomLayer LTMM-110-02-X-D-RA  19.4790      11.0330      270      "Samtec LTMM-110-02-x-D-RA"                       
+P1         SSM-110-x-DV-LC    BottomLayer SSM-110-X-DV-LC     16.7640      53.4670      90       "Samtec SSM-110-x-DV-LC"                          
+C6         Cap                BottomLayer CAPC1206(3216)100_N 4.0640       42.0370      180      Capacitor                                         
+C5         Cap                BottomLayer CAPC0603(1608)100_N 2.9210       27.9400      270      Capacitor                                         
+C4         Cap                BottomLayer CAPC0603(1608)100_N 10.7950      27.8130      270      Capacitor                                         
+C3         Cap                BottomLayer CAPC0603(1608)100_N 8.8900       27.5590      270      Capacitor                                         
+C2         Cap                BottomLayer CAPC0603(1608)100_N 22.6060      28.4100      270      Capacitor                                         
+C1         Cap                BottomLayer CAPC0603(1608)100_N 42.6720      29.8450      0        Capacitor                                         
