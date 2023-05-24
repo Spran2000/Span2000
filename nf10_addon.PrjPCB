@@ -43,7 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=nf10_addon_AB
+CurrentVariant=nf10_addon
 
 [Preferences]
 PrefsVaultGUID=
